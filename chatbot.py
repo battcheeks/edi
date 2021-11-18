@@ -14,4 +14,4 @@ while True:
 	elif command=="git repo":
 		command = "cd Desktop/TY_EDI; source edi/bin/activate;bash git.sh"
 		import appscript
-		appscript.app ( 'Terminal' ).do_script ( command )
+		appscript.app ('Terminal').do_script ( command )
