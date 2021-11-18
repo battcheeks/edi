@@ -1,5 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 # from PyQt5.QtGui import QtCursor
+#new
 import qdarkstyle
 from PyQt5 import Qt
 import webbrowser
